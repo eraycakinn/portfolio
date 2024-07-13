@@ -184,7 +184,7 @@ export default class MonitorScreen extends EventEmitter {
 
         // Set iframe attributes
         // PROD
-        iframe.src = 'https://os.eraycakin.com/';
+        iframe.src = 'http://37.27.27.121/';
         /**
          * Use dev server is query params are present
          *
