@@ -152,7 +152,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                                     <b>Eray Cakin Resume Server</b>{' '}
                                 </p>
                                 <p style={styles.green}>
-                                    <b>Henry Inc.</b>
+                                    <b>Eray Inc.</b>
                                 </p>
                             </div>
                         </div>
